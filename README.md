@@ -1,9 +1,16 @@
-# Titanic Data Analysis Project with Python  
+# Titanic Data Analysis Project with Python       
 
-![Titanic Model](https://cdn11.bigcommerce.com/s-n12pqvjack/images/stencil/608x608/products/49743/152991/hbb83420-1700-hobby-boss-rms-titanic-plastic-model-kit-squadron-model-models__53289.1693650953.jpg?c=1)
 
+
+
+![Titanic Model - Haute résolution](https://cdn11.bigcommerce.com/s-n12pqvjack/images/stencil/1280x1280/products/49743/152991/hbb83420-1700-hobby-boss-rms-titanic-plastic-model-kit-squadron-model-models__53289.1693650953.jpg?c=1)
+
+
+  
+    
+ 
 ## Project Overview   
-This project explores the famous Titanic dataset, providing a comprehensive data analysis to uncover key trends and insights about passenger survival. It involves data cleaning, visualization, and predictive modeling, using powerful Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The goal is to understand the factors that influenced survival rates on the Titanic, such as age, gender, and passenger class, and to build a machine learning model to predict survival outcomes.  
+This project explores the famous Titanic dataset, providing a comprehensive data analysis to uncover key trends and insights about passenger survival. It involves data cleaning, visualization, and predictive modeling, using powerful Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The goal is to understand the factors that influenced survival rates on the Titanic, such as age, gender, and passenger class.  
 
 ## Objectives  
 
@@ -12,12 +19,11 @@ This project explores the famous Titanic dataset, providing a comprehensive data
 * **Categorical Variable Processing** : Clean and preprocess categorical variables to make them suitable for analysis.    
 * **Data Visualization** : Generate insightful visualizations for continuous variables to identify trends and patterns.  
 * **Correlation Analysis** : Calculate and interpret the correlation between continuous variables to understand their relationships.  
-* **Machine Learning Model** : Develop and evaluate a machine learning model to predict passenger survival based on the analyzed features.
 
 ## Datasets  
 
 this project uses two main datasets :  
-`trai.csv` : Contains 891 entries used for training the machine learning model.  
+`train.csv` : Contains 891 entries used for training the machine learning model.  
 `test.csv` : Contains 418 entries used for model evaluation.  
 
 Both datasets include 12 features describing each passenger:  
